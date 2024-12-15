@@ -5,3 +5,6 @@ git commit is a local operation; it affects only your local repository and does 
 Until they're pushed, commits exist only on your local machine. 
 
 git push is a network operation that transfers commits from your local repository to a remote repository.
+
+
+NEED TO ADD A COMMIT COMMENT
