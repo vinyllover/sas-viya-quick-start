@@ -1,1 +1,7 @@
 /*test file*/
+
+git commit is a local operation; it affects only your local repository and does not interact with the remote repository. 
+
+Until they're pushed, commits exist only on your local machine. 
+
+git push is a network operation that transfers commits from your local repository to a remote repository.
